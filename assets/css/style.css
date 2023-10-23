@@ -528,6 +528,12 @@ section {
   fill: #11dbcf;
 }
 
+.lec {
+  margin-top: 30px;
+}
+.lec .card {
+  margin: 10px;
+}
 
 /*--------------------------------------------------------------
 # Resume
